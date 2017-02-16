@@ -3,6 +3,7 @@ categories: jekyll update
 layout: post
 title: Welcome to Jekyll!
 date: '2017-02-16 08:23:26 -0600'
+image: /images/uploads/Screen Shot 2016-12-26 at 2.20.32 PM.png
 ---
 
 So here we are. I’m making a change.
